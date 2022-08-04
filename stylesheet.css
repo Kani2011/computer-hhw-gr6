@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+}
+
+.firstdiv{
+    background-color: rgb(17, 16, 16);
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.seconddiv{
+    float:left;
+    font-size: larger;
+    
+    
+    padding: 10px;
+}
+.cleardiv{
+    clear: both;
+}
+
+.bg_image{
+    background-image: url(bg_image1.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+video, iframe{
+    width: 30vw;
+    height: 50vh;
+}
+.child{
+    float: left;
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+    
+    
+}
+.parentdiv{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 1vw;
+}
+#audio1{
+    padding: 20vh 0 0 0 !important;
+}
+.footer1{
+    background-color: lightgray;
+    padding: 5px 0;
+}
+
+.footer2{
+    float: left;
+    padding: 0 10vw;
+}
+.noice{
+    background-image: url(WEBTHING.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 20px;
+}
+
+.pt{
+text-align: center;
+width: 20vw;
+margin: auto;
+color:#ffffff;
+border: 1px solid black;
+border-radius: 50%;
+
+}
+
+.pt h3{
+padding: 20px 0;
+color: #d4c931;
+
+}
+
+.programming{
+    background-color: rgba(230, 224, 224, 0.929);
+
+
+}
+
+.index2{
+
+    background-color: rgba(230, 224, 224, 0.929);
+    ;
+}
+
+.pt p{
+background-color:darkcyan;
+padding: 5px 0;
+
+}
+
+.names{
+    width: 25vw;
+    padding: 20px 0;
+}
+
